@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 I'm a Front End developer based in Uppsala. I'm passionate about JavaScript, specifically React & TypeScript. I also dabble in Svelte and C# ❤️
 
