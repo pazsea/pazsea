@@ -1,6 +1,7 @@
 ### Hey there! 👋
 
-I'm a Front End developer based in Uppsala. I'm passionate about JavaScript, specifically React & TypeScript. I also dabble in Svelte and C# ❤️
+I'm a Front End developer based in Uppsala, Sweden. 
+I'm passionate about JavaScript, specifically React & TypeScript. I also dabble in Svelte and C# ❤️
 
 Status ✍️
 - 📫 How to reach me: [E-mail](mailto:pazsea.github@google.com)
