@@ -7,7 +7,7 @@ I'm a Front End developer based in Uppsala, Sweden. I'm passionate about JavaScr
 Status ✍️
 - 📫 How to reach me: [E-mail](mailto:pazsea.github@google.com)
 - 💼 Check out my projects: [Portfolio](http://patrick-sjoberg-portfolio.surge.sh/)
-- 🔭 I’m currently working on my VSCode extensions [Stash tabs](https://marketplace.visualstudio.com/items?itemName=paz1987.stash-tabs)
+- 🔭 I’m currently working on my VSCode extension [Stash tabs](https://marketplace.visualstudio.com/items?itemName=paz1987.stash-tabs)
 - 🌱 I’m currently learning Svelte 💖
 
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=pazsea&show_icons=true&include_all_commits=true)](https://github.com/pazsea/github-readme-stats)
