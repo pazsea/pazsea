@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+I'm a Front End developer based in Uppsala. I'm passionate about JavaScript, specifically React & TypeScript. I also dabble in Svelte and C# ❤️
+
+Status ✍️
+- 📫 How to reach me: [E-mail](mailto:pazsea.github@google.com)
+- 💼 Check out my projects: [Portfolio](http://patrick-sjoberg-portfolio.surge.sh/)
+- 🔭 I’m currently working on my VSCode extensions [Stash tabs](https://marketplace.visualstudio.com/items?itemName=paz1987.stash-tabs)
+- 🌱 I’m currently learning Svelte 💖
 <!--
-**pazsea/pazsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
